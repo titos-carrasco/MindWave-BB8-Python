@@ -1,0 +1,35 @@
+[editor]
+line_wrapping=false
+line_break_column=78
+auto_continue_multiline=false
+
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=true
+replace_tabs=true
+
+[indentation]
+indent_width=4
+indent_type=0
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=MindWave BB8 Python
+base_path=/home/roberto/Projects/GitHub/MindWave-BB8-Python
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=78
+
+[files]
+current_page=2
+FILE_NAME_0=5809;Python;0;EUTF-8;0;1;0;%2Fhome%2Froberto%2FProjects%2FGitHub%2FMindWave-BB8-Python%2Frcr%2FSpheroBB8%2FSpheroBB8.py;0;4
+FILE_NAME_1=486;Python;0;EUTF-8;0;1;0;%2Fhome%2Froberto%2FProjects%2FGitHub%2FMindWave-BB8-Python%2FBB8-Test.py;0;4
+FILE_NAME_2=328;Python;0;EUTF-8;0;1;0;%2Fhome%2Froberto%2FProjects%2FGitHub%2FMindWave-BB8-Python%2FBB8-MindWave-Test.py;0;4
+
+[VTE]
+last_dir=/home/roberto/Projects/Go/SFML 01
