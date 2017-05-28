@@ -20,16 +20,16 @@ indent_mode=2
 [project]
 name=MindWave BB8 Python
 base_path=/home/roberto/Projects/GitHub/MindWave-BB8-Python
+description=
+file_patterns=
 
 [long line marker]
 long_line_behaviour=1
 long_line_column=78
 
 [files]
-current_page=2
-FILE_NAME_0=5809;Python;0;EUTF-8;0;1;0;%2Fhome%2Froberto%2FProjects%2FGitHub%2FMindWave-BB8-Python%2Frcr%2FSpheroBB8%2FSpheroBB8.py;0;4
-FILE_NAME_1=486;Python;0;EUTF-8;0;1;0;%2Fhome%2Froberto%2FProjects%2FGitHub%2FMindWave-BB8-Python%2FBB8-Test.py;0;4
-FILE_NAME_2=328;Python;0;EUTF-8;0;1;0;%2Fhome%2Froberto%2FProjects%2FGitHub%2FMindWave-BB8-Python%2FBB8-MindWave-Test.py;0;4
+current_page=0
+FILE_NAME_0=0;Python;0;EUTF-8;0;1;0;%2Fhome%2Froberto%2FProjects%2FGitHub%2FMindWave-BB8-Python%2FBB8-Test.py;0;4
 
 [VTE]
 last_dir=/home/roberto/Projects/Go/SFML 01
