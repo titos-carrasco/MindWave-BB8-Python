@@ -66,8 +66,8 @@ class BB8(btle.DefaultDelegate):
     def disconnect(self):
         self.peripheral.disconnect()
 
-# This are mine (titos.carrasco@gmail.com)
-# Documentation in https://sdk.sphero.com/
+# Documents in https://sdk.sphero.com/
+# My code (titos.carrasco@gmail.com)
 
 import threading
 
